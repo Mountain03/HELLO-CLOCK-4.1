@@ -58,8 +58,8 @@ void SysInforInit()
   {
     Serial.println("wifi infor restore error");
 
-      strcpy(StrWifiName,"MERCURY_F39F");
-      strcpy(StrWifiPassword,"15236634549");
+      strcpy(StrWifiName,"   ");
+      strcpy(StrWifiPassword,"   ");
   }
 }
 
